@@ -25,10 +25,6 @@ This application requires a web browser to run.
 
 The AI Image Generator is built using HTML, CSS, and JavaScript. The HTML file creates the basic structure of the web page, including a container div that holds the header, form, and result sections. The CSS file styles the various elements on the page, including the container, header, form, and result sections. The JavaScript file contains the code that generates the images using the OpenAI GPT-3 API and the Unsplash API.
 
-## Authors
-
-The AI Image Generator was created by Sameer Ahad.
-
 
 ## Acknowledgments
 
