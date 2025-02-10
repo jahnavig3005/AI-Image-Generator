@@ -2,6 +2,7 @@
 Developed an AI-powered image generator utilizing advanced machine learning models to create images based on textual descriptions.
 
 **Project Overview**
+
 This AI Image Generator leverages state-of-the-art machine learning algorithms to create compelling images based on textual descriptions. Built with Python and utilizing the PyTorch framework, this application integrates advanced deep learning models, specifically trained on diverse datasets to generate high-quality images.
 
 **Features**
